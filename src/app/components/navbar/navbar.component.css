@@ -1,0 +1,13 @@
+.primary-color, ul.stepper li.active a .circle, ul.stepper li.completed a .circle {
+    background-color: #0c300b !important;
+}
+.t3-top-bar {
+    background: #2C2C2C;
+    padding-top: 3.5px;
+    padding-bottom: 3.5px;
+    color: rgba(255,255,255,0.5);
+    font-size: 13.5px;
+}
+i.fas.fa-clock{
+    margin-right: 15px;
+}
